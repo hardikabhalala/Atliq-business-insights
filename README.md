@@ -67,4 +67,4 @@ Based on the mock ups received as requirement,
 ![Marketing View](https://github.com/hardikabhalala/Atliq-business-insights/assets/139356154/f5ad1bc9-4723-426c-b559-66c96513674d)
 
 # Supply chain View
-
+![Supply chain view](https://github.com/hardikabhalala/Atliq-business-insights/assets/139356154/97cc1b98-b657-496e-b0a1-923ca69e73dd)
