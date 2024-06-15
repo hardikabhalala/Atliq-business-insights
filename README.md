@@ -68,3 +68,10 @@ Based on the mock ups received as requirement,
 
 # Supply chain View
 ![Supply chain view](https://github.com/hardikabhalala/Atliq-business-insights/assets/139356154/97cc1b98-b657-496e-b0a1-923ca69e73dd)
+
+# Executive View
+![Executive view](https://github.com/hardikabhalala/Atliq-business-insights/assets/139356154/edf4ade0-31cf-49b7-b213-27bfa5f65d08)
+
+
+Project Outcome
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
