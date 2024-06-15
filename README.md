@@ -54,3 +54,5 @@ Project charter file
 Dashboard designing
 Based on the mock ups received as requirement,
 
+https://github.com/hardikabhalala/Atliq-business-insights/issues/1#issue-2354572625
+
