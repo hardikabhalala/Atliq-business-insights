@@ -2,16 +2,30 @@
 
 Title:- Business Insights 360 Dashboard for Finance, Sales, Marketing and Supply Chain
 
-Information:-
+# Problem statement:-
 Atliq hardware is a rapidly expanding consumer hardware company, But it is not able to compete with other companies.Most of their reports using data is still on Excel.
-My goal is to implement an advanced analysical solution using power BI that will reduce the time and cost of the company and get insight and make informed decisions.
+They wanted use a powerBI for their data driven decision making and wanted to reduce timing by manually data collection and visualization in excel.My goal is to implement an advanced analysical solution using power BI that will reduce the time and cost of the company and get insight and make informed decisions.
 
-Project Descriotion:-
-The main focus is made on the following
-
-1. Robust Data Modeling
-2. User-empathetic Report design
-3. Drillable Insights
+Steps followed:-
+1. Get relevant data according to the requirements from data werehouse
+2. Dataset understanding
+3. Data cleaning and manipulation in MySQL
+4. Transfer data from MySQL database and from microsoft excel to powerBI
+5. creating date table using m language
+6. Add calculated column in Power query
+7. Add column using Dax formula
+8. Data modeling
+9. Add measures using Dax formula
+10. Using Bookmarks to switch between two visuals ,Page navigation with buttons
+11. Using divide function to prevent zero division errors
+12. Data visualization
+13. User-empathetic Report design
+14. Drillable Insights
+15. Using KPI indicators
+16. Conditional formatting the values in visuals using icons or background color.
+17. Data validation techniques
+18. PowerBi services
+19. Publishing reports to PowerBi services
 
  learned the following technical things
 
@@ -29,4 +43,13 @@ The main focus is made on the following
  - Problem solving
  - Creativiy
 
-   
+Tech stacks
+SQL
+PowerBi Desktop
+Excel
+DAX language
+DAX studio (for optimizing the report)
+Project charter file
+
+Dashboard designing
+Based on the mock ups received as requirement,
