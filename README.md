@@ -55,5 +55,8 @@ Dashboard designing
 Based on the mock ups received as requirement,
 
 # Home View
+![home view](https://github.com/hardikabhalala/Atliq-business-insights/assets/139356154/a5d209df-313b-4b5d-b499-9d1efdbdd19a)
+
+# Finance View
 
 
