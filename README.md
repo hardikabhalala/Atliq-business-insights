@@ -61,4 +61,7 @@ Based on the mock ups received as requirement,
 ![Finance view](https://github.com/hardikabhalala/Atliq-business-insights/assets/139356154/ba352b3e-6f4f-4d91-9fcc-25127e3cb08d)
 
 # Sales View
+![sales view](https://github.com/hardikabhalala/Atliq-business-insights/assets/139356154/b8c2a2a4-1889-46a0-bd07-fea6a3b11a9b)
+
+# Marketing View
 
